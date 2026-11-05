@@ -1,4 +1,4 @@
-# [Домашнее задание](https://github.com/netology-code/sdb-homeworks/blob/main/12-06.md) к занятию "`Репликация и масштабирование. Часть 1`
+# [Задание](https://github.com/netology-code/sdb-homeworks/blob/main/12-06.md) к занятию "`Репликация и масштабирование. Часть 1`
 ---
 
 ### Задание 1
